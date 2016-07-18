@@ -427,7 +427,8 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/bg/divider1.jpg')
+	background-image: url('../img/punta.jpg');
+    height:7000px;
 }
 
 .divider2 {
@@ -435,16 +436,20 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('../img/bg/divider3.jpg');
+	background-image: url('../img/court.jpg');
+    height: 2000px;
+
 	margin-top: 0px;
 }
 
 .divider4 {
-	background-image: url('../img/bg/divider4.jpg')
+	background-image: url('../img/2k16.jpg')
 }
 
 .divider6 {
-	background-image: url('../img/bg/divider6.jpg')
+	background-image: url('../img/bohol.jpg');
+    height: 7000px;
+
 }
 
 
